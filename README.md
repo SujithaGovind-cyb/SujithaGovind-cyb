@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection  | <a href="https://github.com/SujithaGovind-cyb/Contingency-Planning/tree/main"> Contingency Planning</a>|
 | Security Automation with Shuffle SOAR            | SOC Automation Lab|
 | Incident Response Planning and Execution         | SOC Automation Lab|
-| Disaster Recovery & Business Continuity Contingency Plan                                   | SOC Automation Lab|
+| Disaster Recovery & Business Continuity Contingency Plan   | <a href="https://github.com/SujithaGovind-cyb/Contingency-Planning/tree/main"> Contingency Planning</a>|
 | Scripting and Automation for Threat Mitigation   | SOC Automation Lab|
 
 ## Tools
