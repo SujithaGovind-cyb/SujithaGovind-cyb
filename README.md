@@ -13,8 +13,8 @@ My journey in computer science started as early as in high school has led me to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis             | <a href="https://github.com/SujithaGovind-cyb/Penetration-Testing-Digital-Forensics-Lab/blob/main/README.md">Penetration Testing Digital Forensics Lab</a>|
-| Network Traffic Monitoring and Attack Detection  | <a href="https://github.com/SujithaGovind-cyb/Contingency-Planning/tree/main"> Contingency Planning</a>|
+| Penetration Testing & Analysis             | <a href="https://github.com/SujithaGovind-cyb/Penetration-Testing-Digital-Forensics-Lab/blob/main/README.md">Penetration Testing & Forensic Analysis</a>|
+| Network Traffic Monitoring and Attack Detection  | Network Traffic Monitoring using Security Onion|
 | Security Automation with Shuffle SOAR            | SOC Automation Lab|
 | Incident Response Planning and Execution         | SOC Automation Lab|
 | Disaster Recovery & Business Continuity Contingency Plan   | <a href="https://github.com/SujithaGovind-cyb/Contingency-Planning/tree/main"> Contingency Planning</a>|
