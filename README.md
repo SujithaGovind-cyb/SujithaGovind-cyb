@@ -15,7 +15,7 @@ My journey in computer science started as early as in high school has led me to 
 | Penetration Testing & Analysis             | <a href="https://github.com/SujithaGovind-cyb/Penetration-Testing-Digital-Forensics-Lab/blob/main/README.md">Penetration Testing & Forensic Analysis</a>|
 | Network Traffic Monitoring and Attack Detection  | Network Traffic Monitoring using Security Onion|
 | Security Automation with Shuffle SOAR            | SOC Automation Lab|
-| Incident Response Planning and Execution         | SOC Automation Lab|
+| Digital Forensics and Incident Response Planning | <a href="https://github.com/SujithaGovind-cyb/DFIR-Incident-Replication-Forensic-Analysis-Security-Onion-Volatility-3-Autopsy-/blob/main/README.md"> Digital Forensics and Incident Response Planning</a>|
 | Disaster Recovery & Business Continuity Contingency Plan   | <a href="https://github.com/SujithaGovind-cyb/Contingency-Planning/tree/main"> Contingency Planning</a>|
 | Scripting and Automation for Threat Mitigation   | SOC Automation Lab|
 
